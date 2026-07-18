@@ -1,7 +1,7 @@
 # BREAKTHROUGH 03: Neuromorphic Radar for Stealth Aircraft Detection
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
+![Radar](https://img.shields.io/badge/Domain-Radar-blue)
 
 This repository implements the research pipeline for the **BREAKTHROUGH 03: Neuromorphic Radar for Stealth Aircraft Detection** project, developed by the Runtime-Slayers research group.
 
@@ -40,7 +40,7 @@ graph TD
 
 ## 🔍 Abstract & Research Context
 
-
+### From Absolute Zero Knowledge to Publishable Paper --- # PART A: UNDERSTANDING THE WORLD YOU'RE ENTERING --- ## 1. WHAT IS THIS ABOUT? (Explained Like You're 10) Stealth aircraft (like the F-22, F-35, B-2 bomber, or Russia's Su-57) are designed to be **invisible to radar**. They absorb radar signals, scatter them in wrong directions, and minimize their radar cross section (RCS) — making them appear no larger than a bird or a marble on a radar screen.
 
 ---
 
